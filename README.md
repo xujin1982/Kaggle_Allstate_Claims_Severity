@@ -1,3 +1,3 @@
-# Kaggle_Allstate_Claims_Severity
+# Allstate Claims Severity project
 
 This project provides a sample solution to [Allstate Claims Severity competition](https://www.kaggle.com/c/allstate-claims-severity) on Kaggle.
